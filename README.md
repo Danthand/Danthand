@@ -15,8 +15,8 @@ Hi there, I'm **Pablo Reis**, a **DotNet Developer** and a **Software Engineerin
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working at Programmers Beyond It
-- 🌱 I’m currently learning about pentest; 
-- 🤔 My interests are web hacking and server security;
+- 🌱 I’m currently learning about Web Development; 
+- 🤔 My interests are website aplications and android/ios apps;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am happy to help;
 
